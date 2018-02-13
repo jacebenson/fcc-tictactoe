@@ -1,0 +1,22 @@
+{
+  "name": "fcc09tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/browser-sync start --server 'public' --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/jacebenson/fcc-tictactoe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jacebenson/fcc-tictactoe/issues"
+  },
+  "homepage": "https://gitlab.com/jacebenson/fcc-tictactoe#README",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
