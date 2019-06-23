@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/jacebenson/fcc-tictactoe.git"
+    "url": "git+ssh://git@github.com/jacebenson/fcc-tictactoe.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://gitlab.com/jacebenson/fcc-tictactoe/issues"
+    "url": "https://github.com/jacebenson/fcc-tictactoe/issues"
   },
-  "homepage": "https://gitlab.com/jacebenson/fcc-tictactoe#README",
+  "homepage": "https://github.com/jacebenson/fcc-tictactoe#README",
   "devDependencies": {
     "light-server": "^2.6.2"
   }
