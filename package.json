@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "./node_modules/.bin/browser-sync start --server 'public' --watch"
+    "start": "light-server -s public/ -w 'public/**'"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://gitlab.com/jacebenson/fcc-tictactoe#README",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "light-server": "^2.6.2"
   }
 }
